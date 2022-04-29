@@ -5,3 +5,5 @@ Vivo en Colombia
 Soy ingeniera Industrial
 
 Trabajo en tata 
+
+curso profesional de git
