@@ -1,4 +1,4 @@
-Hola soy Camila Valencia
+Hola soy Camila Valencia.2.0
 
 Tengo 28 años
 Vivo en Colombia
@@ -6,4 +6,4 @@ Soy ingeniera Industrial
 
 Trabajo en tata 
 
-curso profesional de git
+curso profesional de git 
